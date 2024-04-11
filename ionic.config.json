@@ -1,0 +1,7 @@
+{
+  "name": "libary-manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
